@@ -1,0 +1,37 @@
+Team standup meeting - January 22, 2026
+
+John: Good morning everyone. Let's start with updates.
+
+Sarah: I completed the user authentication module. It's ready for review.
+
+Mike: Great! I'll review it by end of day. I'm currently working on the database migration.
+
+John: Sounds good. Sarah, can you help Mike with the migration if he needs it?
+
+Sarah: Absolutely, happy to help.
+
+John: One more thing - we need to decide on the deployment strategy. Should we go with blue-green or canary?
+
+Mike: I think canary would be safer for our use case.
+
+Sarah: Agreed. Let's go with canary deployment.
+
+John: Perfect. Mike, can you document the deployment plan by Friday?
+
+Mike: Will do.
+
+John: Any blockers or questions?
+
+Sarah: Do we have access to the production environment yet?
+
+John: Not yet, I'll follow up with DevOps today.
+
+Mike: Also, should we schedule a code review session for next week?
+
+John: Good idea. Let's do Tuesday at 2 PM.
+
+Sarah: Works for me.
+
+Mike: Same here.
+
+John: Great, meeting adjourned. Thanks everyone!
